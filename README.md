@@ -42,3 +42,5 @@ Download [unixcoder.py](https://github.com/microsoft/CodeBERT/blob/master/UniXco
 1. Run CodeEmbeddingsGenerator.py to get the code embeddings data.
 
 2. Use tda.yml to create a new conda environment to run analytical engineering code.
+
+__Note:__ Some string paths in the analytical engineering notebooks may need to be changed (i.e., '\\' or '/') depending on the operating system you use.
