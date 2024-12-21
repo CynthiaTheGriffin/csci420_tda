@@ -5,7 +5,7 @@
 download_urls: Includes download URLs of all Java files in 'ant-ivy/src/java/org/apache
 /ivy' of the official Apache Ivy codebase.
 CodeEmbeddingsGenerator: Python file that produces the data folder of code embeddings on all classes, methods, and tokens.
-environment.yml: Conda environment used for analytical engineering.
+tda.yml: Conda environment used for analytical engineering.
 AnalyticalEngineering1: Jupyter notebook that includes TDA on the emebedding data.
 AnalyticalEngineering2: Jupyter notebook that includes TDA on the emebedding data.
 figs: Folder of static and interactive plots produced from analysis.
